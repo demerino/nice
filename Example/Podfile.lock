@@ -1,0 +1,16 @@
+PODS:
+  - Nice (0.1.0)
+
+DEPENDENCIES:
+  - Nice (from `../`)
+
+EXTERNAL SOURCES:
+  Nice:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nice: 4b3a637d3943986ea8944c3b025f63487c84da3f
+
+PODFILE CHECKSUM: 9680ba2b1ff33d8138e41140897e06a3d89bbd62
+
+COCOAPODS: 1.1.1
